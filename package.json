@@ -1,0 +1,21 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "date-fns": "^2.28.0",
+    "dotenv": "^16.0.1",
+    "puppeteer": "^14.1.0",
+    "twitter": "^1.7.1",
+    "twitter-api-v2": "^1.12.0"
+  }
+}
